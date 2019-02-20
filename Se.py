@@ -1,8 +1,7 @@
 import sys
 import os
 from os import system
-# a.upper()
-# a.title()
+
 
 
 system("title "+"SePy Beta")
