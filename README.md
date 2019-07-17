@@ -8,7 +8,7 @@ Kullanımı oldukça basit. 😊
 # Sürüm
 Python 3.7.2
 # Not
-Kendiniz kodları editleyereken çok kullanılan parolalar kısmını değiştirebilirsiniz.
+Kendiniz kodları editleyerek en çok kullanılan parolalar kısmını değiştirebilirsiniz.
 
 
 Şimdiden iyi çalışmalar😊
